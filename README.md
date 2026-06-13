@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-ultima-carta-tuya/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: La última carta tuya](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-ultima-carta-tuya/) |
+| **Get License** | [Get a Licensing Quote for La última carta tuya](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-ultima-carta-tuya/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Leo la última carta tuya bajo la luna
+> Sé que en el mundo entero como tú no hay ninguna
+> Con este ritmo lento la pasión se nos junta
+> Quiero ser el dueño de tus labios que me asustan
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
