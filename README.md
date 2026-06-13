@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-ultima-carta-tuya/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for La última carta tuya](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-ultima-carta-tuya/) |
+| **Get License** | [Request Licensing for La última carta tuya](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-ultima-carta-tuya/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5752f0c978c1b23fff14931e519ebbd47a29df7cbdd04829cbde641c1b1da7f4` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

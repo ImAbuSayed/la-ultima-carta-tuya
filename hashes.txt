@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - La última carta tuya
+
+This log tracks the cryptographic history and versioning for the song **La última carta tuya** (la-ultima-carta-tuya).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T18:34:47.612005 | `v1` | `5752f0c978c1b23fff14931e519ebbd47a29df7cbdd04829cbde641c1b1da7f4` | `390cbd10e031cfe826d554cf69ff1389805d783be2af805e88f4724e1a68a7cf` | `2026-06-13_la-ultima-carta-tuya-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
